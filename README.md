@@ -1,4 +1,10 @@
-# vivli_2024
+# vivli_2024- InsightCAre.ai
+
+This code was developed by  Dr. Rachael Kanguha and Dr. Fredrick Mutisya using Pfizer-Atlas, Venatorx-GEARS and Paratek-Keystone data as part of the 2024 Vivli data challenge. For more information on Vivli and the challenge, visit the link 
+[Vivli AMR](https://amr.vivli.org/)
+
+![AntiMicro.ai logo](https://github.com/fredmutisya/vivli_2024/website/1.jpg)
+
 
 ### InsightCare.AI: Streamlit Application Guide
 
