@@ -18,6 +18,32 @@ Comprehensive Data Entry: Includes fields for patient ID, name, residence, age g
 
 ![Patient_management](https://github.com/fredmutisya/vivli_2024/blob/main/website/2.png)
 
+
+### AI powered summary
+
+Dynamic Report Generation: Combines data from the FDA, surveillance summaries, and PubMed abstracts to generate comprehensive reports saving the doctor hours of data collection, analysis and synthesis.
+
+Customizable Data Filtering: Demographic and clinical information picked directly from the EMR fields and matches data based on specific criteria like infection diagnosis, specialty, source, and age group.
+
+
+### Clinical Surveillance
+
+FDA based summarise: Real-time FDA information on the drug name, indications, usage and side effects is displayed.
+
+
+### Laboratory Surveillance
+
+Antibiogram Analysis: Enables the doctor/nurse to consult surveillance data and generate detailed antibiograms to monitor antibiotic resistance patterns.
+Visual Data Presentation: Resistance levels are displayed in an easily interpretable format, color-coded to indicate susceptibility levels, aiding in rapid decision-making.
+
+
+### Research Consultation
+
+Direct PubMed Access: The platform integrates a feature to search PubMed directly, allowing clinicians to access relevant medical studies.
+AI-Enhanced Summaries: Utilizes AI to generate summaries and key insights from research studies, promoting evidence-based clinical practices.
+
+
+
 ### InsightCare.AI: Streamlit Application Guide
 
 Welcome to the InsightCare.AI Streamlit application. This guide will walk you through the setup, functionality, and features of the InsightCare.AI platform, which aims to enhance healthcare decision-making by demonstrating AI-powered data analytics and visualization.
