@@ -1,14 +1,26 @@
-# vivli_2024- InsightCAre.ai
+# vivli_2024- InsightCare.ai
 
-This code was developed by  Dr. Rachael Kanguha and Dr. Fredrick Mutisya using Pfizer-Atlas, Venatorx-GEARS and Paratek-Keystone data as part of the 2024 Vivli data challenge. For more information on Vivli and the challenge, visit the link 
+This is a working app used to demontrate intergration of AI into EMRs using surveillance data nad research to combat AntiMicrobial Resistance. This code was developed by  Dr. Rachael Kanguha and Dr. Fredrick Mutisya using Pfizer-Atlas, Venatorx-GEARS and Paratek-Keystone data as part of the 2024 Vivli data challenge. For more information on Vivli and the challenge, visit the link 
 [Vivli AMR](https://amr.vivli.org/)
+
+InsightCare.AI offers a comprehensive suite of tools designed to enhance clinical decision-making for antibiotic prescriptions through the integration of Artificial Intelligence (AI) with Electronic Medical Records (EMRs). By utilizing surveillance data on antibiotics and accessing up-to-date research, the platform ensures that healthcare providers can make informed decisions backed by real-time data and advanced analytics.
+
+### Landing  page
+
+A welcoming and intuitive dashboard that guides users through various AI-enabled healthcare functionalities.
 
 ![Insightcare.ai](https://github.com/fredmutisya/vivli_2024/blob/main/website/1.png)
 
 
+### Patient Management
+
+Comprehensive Data Entry: Includes fields for patient ID, name, residence, age group, gender, medical specialty, antibiotic, diagnosis etc which are the variables that will be automatically fed into the AI platform.
+
+![Patient_management](https://github.com/fredmutisya/vivli_2024/blob/main/website/2.png)
+
 ### InsightCare.AI: Streamlit Application Guide
 
-Welcome to the InsightCare.AI Streamlit application. This guide will walk you through the setup, functionality, and features of the InsightCare.AI platform, which aims to enhance healthcare decision-making through AI-powered data analytics and visualization.
+Welcome to the InsightCare.AI Streamlit application. This guide will walk you through the setup, functionality, and features of the InsightCare.AI platform, which aims to enhance healthcare decision-making by demonstrating AI-powered data analytics and visualization.
 
 #### Setting Up the Environment
 
