@@ -25,10 +25,14 @@ Dynamic Report Generation: Combines data from the FDA, surveillance summaries, a
 
 Customizable Data Filtering: Demographic and clinical information picked directly from the EMR fields and matches data based on specific criteria like infection diagnosis, specialty, source, and age group.
 
+![AI_report](https://github.com/fredmutisya/vivli_2024/blob/main/website/3.png)
+
 
 ### Clinical Surveillance
 
 FDA based summarise: Real-time FDA information on the drug name, indications, usage and side effects is displayed.
+
+![FDA](https://github.com/fredmutisya/vivli_2024/blob/main/website/4.png)
 
 
 ### Laboratory Surveillance
@@ -36,11 +40,15 @@ FDA based summarise: Real-time FDA information on the drug name, indications, us
 Antibiogram Analysis: Enables the doctor/nurse to consult surveillance data and generate detailed antibiograms to monitor antibiotic resistance patterns.
 Visual Data Presentation: Resistance levels are displayed in an easily interpretable format, color-coded to indicate susceptibility levels, aiding in rapid decision-making.
 
+![Lab](https://github.com/fredmutisya/vivli_2024/blob/main/website/5.png)
+
 
 ### Research Consultation
 
 Direct PubMed Access: The platform integrates a feature to search PubMed directly, allowing clinicians to access relevant medical studies.
 AI-Enhanced Summaries: Utilizes AI to generate summaries and key insights from research studies, promoting evidence-based clinical practices.
+
+![Research](https://github.com/fredmutisya/vivli_2024/blob/main/website/6.png)
 
 
 
