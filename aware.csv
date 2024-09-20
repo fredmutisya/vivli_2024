@@ -1,0 +1,258 @@
+Antibiotic,Class,Category 
+Amikacin,Aminoglycosides,Access
+Amoxicillin,Penicillins,Access
+Amoxicillin/clavulanic-acid,Beta-lactam/beta-lactamase-inhibitor,Access
+Ampicillin,Penicillins,Access
+Ampicillin/sulbactam,Beta-lactam/beta-lactamase-inhibitor,Access
+Arbekacin,Aminoglycosides,Watch
+Aspoxicillin,Penicillins ,Watch
+Azidocillin,Penicillins ,Access
+Azithromycin,Macrolides,Watch
+Azlocillin,Penicillins ,Watch
+Aztreonam,Monobactams,Reserve
+Bacampicillin,Penicillins ,Access
+Bekanamycin,Aminoglycosides,Watch
+Benzathine-benzylpenicillin,Penicillins,Access
+Benzylpenicillin,Penicillins,Access
+Biapenem,Carbapenems,Watch
+Brodimoprim,Trimethoprim-derivatives,Access
+Carbenicillin,Penicillins,Watch
+Carindacillin,Penicillins,Watch
+Carumonam,Monobactams,Reserve
+Cefacetrile,First-generation-cephalosporins,Access
+Cefaclor,Second-generation-cephalosporins,Watch
+Cefadroxil,First-generation-cephalosporins,Access
+Cefalexin,First-generation-cephalosporins,Access
+Cefaloridine,First-generation-cephalosporins,Access
+Cefalotin,First-generation-cephalosporins,Access
+Cefamandole,Second-generation-cephalosporins,Watch
+Cefapirin,First-generation-cephalosporins,Access
+Cefatrizine,First-generation-cephalosporins,Access
+Cefazedone,First-generation-cephalosporins,Access
+Cefazolin,First-generation-cephalosporins,Access
+Cefbuperazone,Second-generation-cephalosporins,Watch
+Cefcapene-pivoxil,Third-generation-cephalosporins,Watch
+Cefdinir,Third-generation-cephalosporins,Watch
+Cefditoren-pivoxil,Third-generation-cephalosporins,Watch
+Cefepime,Fourth-generation-cephalosporins,Watch
+Cefetamet-pivoxil,Third-generation-cephalosporins,Watch
+Cefiderocol,Other-cephalosporins,Reserve
+Cefixime,Third-generation-cephalosporins,Watch
+Cefmenoxime,Third-generation-cephalosporins,Watch
+Cefmetazole,Second-generation-cephalosporins,Watch
+Cefminox,Second-generation-cephalosporins,Watch
+Cefodizime,Third-generation-cephalosporins,Watch
+Cefonicid,Second-generation-cephalosporins,Watch
+Cefoperazone,Third-generation-cephalosporins,Watch
+Ceforanide,Second-generation-cephalosporins,Watch
+Cefoselis,Fourth-generation-cephalosporins,Watch
+Cefotaxime,Third-generation-cephalosporins,Watch
+Cefotetan,Second-generation-cephalosporins,Watch
+Cefotiam,Second-generation-cephalosporins,Watch
+Cefoxitin,Second-generation-cephalosporins,Watch
+Cefozopran,Fourth-generation-cephalosporins,Watch
+Cefpiramide,Third-generation-cephalosporins,Watch
+Cefpirome,Fourth-generation-cephalosporins,Watch
+Cefpodoxime-proxetil,Third-generation-cephalosporins,Watch
+Cefprozil,Second-generation-cephalosporins,Watch
+Cefradine,First-generation-cephalosporins,Access
+Cefroxadine,First-generation-cephalosporins,Access
+Cefsulodin,Third-generation-cephalosporins,Watch
+Ceftaroline-fosamil,Fifth-generation cephalosporins,Reserve
+Ceftazidime,Third-generation-cephalosporins,Watch
+Ceftazidime/avibactam,Third-generation-cephalosporins,Reserve
+Cefteram-pivoxil,Third-generation-cephalosporins,Watch
+Ceftezole,First-generation-cephalosporins,Access
+Ceftibuten,Third-generation-cephalosporins,Watch
+Ceftizoxime,Third-generation-cephalosporins,Watch
+Ceftobiprole-medocaril,Fifth-generation cephalosporins,Reserve
+Ceftolozane/tazobactam,Fifth-generation cephalosporins,Reserve
+Ceftriaxone,Third-generation-cephalosporins,Watch
+Cefuroxime,Second-generation-cephalosporins,Watch
+Chloramphenicol,Amphenicols,Access
+Chlortetracycline,Tetracyclines,Watch
+Cinoxacin,Quinolones,Watch
+Ciprofloxacin,Fluoroquinolones,Watch
+Clarithromycin,Macrolides,Watch
+Clindamycin,Lincosamides,Access
+Clofoctol,Phenol derivatives,Watch
+Clometocillin,Penicillins ,Access
+Clomocycline,Tetracyclines,Watch
+Cloxacillin,Penicillins,Access
+Colistin_IV,Polymyxins,Reserve
+Colistin_oral,Polymyxins,Reserve
+Dalbavancin,Glycopeptides,Reserve
+Dalfopristin/quinupristin,Streptogramins,Reserve
+Daptomycin,Lipopeptides,Reserve
+Delafloxacin,Fluoroquinolones,Watch
+Demeclocycline,Tetracyclines,Watch
+Dibekacin,Aminoglycosides,Watch
+Dicloxacillin,Penicillins ,Access
+Dirithromycin,Macrolides,Watch
+Doripenem,Carbapenems,Watch
+Doxycycline,Tetracyclines,Access
+Enoxacin,Fluoroquinolones,Watch
+Epicillin,Penicillins ,Access
+Eravacycline,Tetracyclines,Reserve
+Ertapenem,Carbapenems,Watch
+Erythromycin,Macrolides,Watch
+Faropenem,Penems,Reserve
+Fidaxomicin,Macrolides,Watch
+Fleroxacin,Fluoroquinolones,Watch
+Flomoxef,Second-generation-cephalosporins,Watch
+Flucloxacillin,Penicillins ,Access
+Flumequine,Quinolones,Watch
+Flurithromycin,Macrolides,Watch
+Fosfomycin_IV,Phosphonics,Reserve
+Fosfomycin_oral,Phosphonics,Watch 
+Furazidin,Nitrofuran derivatives,Access
+Fusidic-acid,Steroid antibacterials,Watch
+Garenoxacin,Fluoroquinolones,Watch
+Gatifloxacin,Fluoroquinolones,Watch
+Gemifloxacin,Fluoroquinolones,Watch
+Gentamicin,Aminoglycosides,Access
+Grepafloxacin,Fluoroquinolones,Watch
+Hetacillin,Penicillins ,Access
+Iclaprim,Trimethoprim-derivatives,Reserve
+Imipenem/cilastatin,Carbapenems,Watch
+Imipenem/cilastatin/relebactam,Carbapenems,Reserve
+Isepamicin,Aminoglycosides,Watch
+Josamycin,Macrolides,Watch
+Kanamycin_IV,Aminoglycosides,Watch
+Kanamycin_oral,Aminoglycosides,Watch
+Lascufloxacin,Fluoroquinolones,Watch
+Latamoxef,Third-generation-cephalosporins,Watch
+Lefamulin,Pleuromutilin,Reserve
+Levofloxacin,Fluoroquinolones,Watch
+Levonadifloxacin,Fluoroquinolones,Watch
+Lincomycin,Lincosamides,Watch
+Linezolid,Oxazolidinones,Reserve
+Lomefloxacin,Fluoroquinolones,Watch
+Loracarbef,Second-generation-cephalosporins,Watch
+Lymecycline,Tetracyclines,Watch
+Mecillinam,Penicillins ,Access
+Meropenem,Carbapenems,Watch
+Meropenem/vaborbactam,Carbapenems,Reserve
+Metacycline,Tetracyclines,Watch
+Metampicillin,Penicillins ,Access
+Meticillin,Penicillins ,Access
+Metronidazole_IV,Imidazoles,Access
+Metronidazole_oral,Imidazoles,Access
+Mezlocillin,Penicillins ,Watch
+Micronomicin,Aminoglycosides,Watch
+Midecamycin,Macrolides,Watch
+Minocycline_IV,Tetracyclines,Reserve
+Minocycline_oral,Tetracyclines,Watch 
+Miocamycin,Macrolides,Watch
+Moxifloxacin,Fluoroquinolones,Watch
+Nafcillin,Penicillins ,Access
+Nemonoxacin,Quinolones,Watch
+Neomycin_IV,Aminoglycosides,Watch
+Neomycin_oral,Aminoglycosides,Watch
+Netilmicin,Aminoglycosides,Watch
+Nifurtoinol,Nitrofuran derivatives,Access
+Nitrofurantoin,Nitrofuran-derivatives,Access
+Norfloxacin,Fluoroquinolones,Watch
+Ofloxacin,Fluoroquinolones,Watch
+Oleandomycin,Macrolides,Watch
+Omadacycline,Tetracyclines,Reserve
+Oritavancin,Glycopeptides,Reserve
+Ornidazole_IV,Imidazoles,Access
+Ornidazole_oral,Imidazoles,Access
+Oxacillin,Penicillins ,Access
+Oxolinic-acid,Quinolones,Watch
+Oxytetracycline,Tetracyclines,Watch
+Panipenem,Carbapenems,Watch
+Pazufloxacin,Fluoroquinolones,Watch
+Pefloxacin,Fluoroquinolones,Watch
+Penamecillin,Penicillins ,Access
+Penimepicycline,Tetracyclines,Watch
+Pheneticillin,Penicillins ,Watch
+Phenoxymethylpenicillin,Penicillins,Access
+Pipemidic-acid,Quinolones,Watch
+Piperacillin,Penicillins ,Watch
+Piperacillin/tazobactam,Beta-lactam/beta-lactamase-inhibitor_anti-pseudomonal,Watch
+Piromidic-acid,Quinolones,Watch
+Pivampicillin,Penicillins ,Access
+Pivmecillinam,Penicillins ,Access
+Plazomicin,Aminoglycosides,Reserve
+Polymyxin-B_IV,Polymyxins,Reserve
+Polymyxin-B_oral,Polymyxins,Reserve
+Pristinamycin,Streptogramins,Watch
+Procaine-benzylpenicillin,Penicillins,Access
+Propicillin,Penicillins ,Access
+Prulifloxacin,Fluoroquinolones,Watch
+Ribostamycin,Aminoglycosides,Watch
+Rifabutin,Rifamycins,Watch
+Rifampicin,Rifamycins,Watch
+Rifamycin_IV,Rifamycins,Watch
+Rifamycin_oral,Rifamycins,Watch
+Rifaximin,Rifamycins,Watch
+Rokitamycin,Macrolides,Watch
+Rolitetracycline,Tetracyclines,Watch
+Rosoxacin,Quinolones,Watch
+Roxithromycin,Macrolides,Watch
+Rufloxacin,Fluoroquinolones,Watch
+Sarecycline,Tetracyclines,Watch
+Secnidazole,Imidazoles,Access
+Sisomicin,Aminoglycosides,Watch
+Sitafloxacin,Fluoroquinolones,Watch
+Solithromycin,Macrolides,Watch
+Sparfloxacin,Fluoroquinolones,Watch
+Spectinomycin,Aminocyclitols,Access
+Spiramycin,Macrolides,Watch
+Streptoduocin,Aminoglycosides,Watch
+Streptomycin_IV,Aminoglycosides,Watch
+Streptomycin_oral,Aminoglycosides,Watch
+Sulbactam,Beta-lactamase-inhibitors,Access
+Sulbenicillin,Penicillins ,Watch
+Sulfadiazine ,Sulfonamides,Access
+Sulfadiazine/tetroxoprim,Sulfonamide-trimethoprim-combinations,Access
+Sulfadiazine/trimethoprim,Sulfonamide-trimethoprim-combinations,Access
+Sulfadimethoxine,Sulfonamides,Access
+Sulfadimidine,Sulfonamides,Access
+Sulfadimidine/trimethoprim,Sulfonamide-trimethoprim-combinations,Access
+Sulfafurazole,Sulfonamides ,Access
+Sulfaisodimidine,Sulfonamides,Access
+Sulfalene,Sulfonamides,Access
+Sulfamazone,Sulfonamides,Access
+Sulfamerazine,Sulfonamides,Access
+Sulfamerazine/trimethoprim,Sulfonamide-trimethoprim-combinations,Access
+Sulfamethizole,Sulfonamides,Access
+Sulfamethoxazole ,Sulfonamides,Access
+Sulfamethoxazole/trimethoprim,Sulfonamide-trimethoprim-combinations,Access
+Sulfamethoxypyridazine,Sulfonamides,Access
+Sulfametomidine,Sulfonamides,Access
+Sulfametoxydiazine,Sulfonamides,Access
+Sulfametrole/trimethoprim,Sulfonamide-trimethoprim-combinations,Access
+Sulfamoxole ,Sulfonamides,Access
+Sulfamoxole/trimethoprim,Sulfonamide-trimethoprim-combinations,Access
+Sulfanilamide,Sulfonamides,Access
+Sulfaperin,Sulfonamides,Access
+Sulfaphenazole,Sulfonamides,Access
+Sulfapyridine,Sulfonamides,Access
+Sulfathiazole,Sulfonamides,Access
+Sulfathiourea,Sulfonamides,Access
+Sultamicillin,Beta-lactam/beta-lactamase-inhibitor,Access
+Talampicillin,Penicillins ,Access
+Tazobactam,Beta-lactamase-inhibitors,Watch
+Tebipenem,Carbapenems,Watch
+Tedizolid,Oxazolidinones,Reserve
+Teicoplanin,Glycopeptides,Watch
+Telavancin,Glycopeptides,Reserve
+Telithromycin,Macrolides,Watch
+Temafloxacin,Fluoroquinolones,Watch
+Temocillin,Penicillins,Watch
+Tetracycline,Tetracyclines,Access
+Thiamphenicol,Amphenicols,Access
+Ticarcillin,Penicillins,Watch
+Tigecycline,Glycylcyclines,Reserve
+Tinidazole_IV,Imidazoles,Access
+Tinidazole_oral,Imidazoles,Access
+Tobramycin,Aminoglycosides,Watch
+Tosufloxacin,Fluoroquinolones,Watch
+Trimethoprim,Trimethoprim-derivatives,Access
+Troleandomycin,Macrolides,Watch
+Trovafloxacin,Fluoroquinolones,Watch
+Vancomycin_IV,Glycopeptides,Watch
+Vancomycin_oral,Glycopeptides,Watch
