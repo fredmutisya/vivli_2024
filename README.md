@@ -38,6 +38,7 @@ FDA based summarise: Real-time FDA information on the drug name, indications, us
 ### Laboratory Surveillance
 
 Antibiogram Analysis: Enables the doctor/nurse to consult surveillance data and generate detailed antibiograms to monitor antibiotic resistance patterns.
+Two types of antibiograms are available- the escalating antibiogram and the subgrouped antibiogram
 Visual Data Presentation: Resistance levels are displayed in an easily interpretable format, color-coded to indicate susceptibility levels, aiding in rapid decision-making.
 
 ![Lab](https://github.com/fredmutisya/vivli_2024/blob/main/website/5.png)
@@ -52,7 +53,7 @@ AI-Enhanced Summaries: Utilizes AI to generate summaries and key insights from r
 
 
 
-### InsightCare.AI: Streamlit Application Guide
+## InsightCare.AI: Streamlit Application Guide
 
 Welcome to the InsightCare.AI Streamlit application. This guide will walk you through the setup, functionality, and features of the InsightCare.AI platform, which aims to enhance healthcare decision-making by demonstrating AI-powered data analytics and visualization.
 
