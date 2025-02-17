@@ -13,6 +13,10 @@ APIs: Pubmed(Medical research repository) and FDA(Drug surveillance)
 ### Want to see the machine learning implementation of this?
 Visit: [Antibiotic Resistance PPrediction using XGBoost](https://github.com/fredmutisya/Antimicro.ai)
 
+
+### Read the Abstract:
+Rachael, K., & Mutisya, F. (2024). Insightcare.ai: Using AI to Incorporate Dynamic Antibiograms and Research into Electronic Medical Records for antibiotic decision support (Insightcare.v01.00). Zenodo. https://doi.org/10.5281/zenodo.14063253
+
 ### Landing  page
 
 A welcoming and intuitive dashboard that guides users through various AI-enabled healthcare functionalities.
@@ -158,7 +162,3 @@ details = fetch_details(id_list)
 #### Deployment
 
 To deploy the application, you can use Streamlit sharing, Heroku, or any other platform that supports Python apps. Ensure that you set up environment variables securely on the deployment platform.
-
-#### Conclusion
-
-The InsightCare.AI application leverages Streamlit, OpenAI, and NCBI's PubMed to provide a comprehensive tool for healthcare professionals. By integrating AI and advanced data analytics, it enhances clinical decision support and facilitates access to the latest research.
