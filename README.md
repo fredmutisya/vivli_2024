@@ -1,11 +1,16 @@
 # vivli_2024- InsightCare.ai- Impact award Winner 2024!
 
-This is a working app used to demontrate intergration of AI(LLMs) into EMRs using surveillance data and research to combat AntiMicrobial Resistance. This code was developed by  Dr. Rachael Kanguha and Dr. Fredrick Mutisya using Pfizer-Atlas, Venatorx-GEARS and Paratek-Keystone data as part of the 2024 Vivli data challenge. For more information on Vivli and the challenge, visit the link 
+This is a working app used to demontrate intergration of AI(LLMs) into EMRs using surveillance data and research to combat AntiMicrobial Resistance. This code was developed by Dr. Fredrick Mutisya using Pfizer-Atlas, Venatorx-GEARS and Paratek-Keystone data as part of the 2024 Vivli data challenge. For more information on Vivli and the challenge, visit the link 
 [Vivli AMR](https://amr.vivli.org/data-challenge/2024-finalist-and-award-winning-solutions/)
 
-InsightCare.AI offers a comprehensive suite of tools designed to enhance clinical decision-making for antibiotic prescriptions through the integration of Artificial Intelligence (AI) with Electronic Medical Records (EMRs). By utilizing surveillance data on antibiotics and accessing up-to-date research, the platform ensures that healthcare providers can make informed decisions backed by real-time data and advanced analytics. This MVP makes use of Open AI GPT 4 O-mini model. However, it has been tested and shown to work with the Gemini, Mistral, Llama and Deepseek family of models. 
+InsightCare.AI offers a comprehensive suite of tools designed to enhance clinical decision-making for antibiotic prescriptions through the integration of Artificial Intelligence (AI) with Electronic Medical Records (EMRs). By utilizing surveillance data on antibiotics and accessing up-to-date research, the platform ensures that healthcare providers can make informed decisions backed by real-time data and advanced analytics. 
 
-# Want to see the machine learning implementation of this?
+### Architecture
+LLMs-Open AI GPT 4 O-mini model, Alternatives: Gemini, Mistral, Llama and Deepseek family of models. 
+Retrieval Augmented Generation: Knowledge base: WHO Antibiotic Guidelines, Antibiotic Research
+APIs: Pubmed(Medical research repository) and FDA(Drug surveillance)
+
+### Want to see the machine learning implementation of this?
 Visit: [Antibiotic Resistance PPrediction using XGBoost](https://github.com/fredmutisya/Antimicro.ai)
 
 ### Landing  page
