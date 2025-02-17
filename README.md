@@ -1,4 +1,4 @@
-# InsightCare.ai, your Ai Powered Antibiotic Decision Support: Impact award Winner 2024!
+# InsightCare.ai | Ai Powered Antibiotic Decision Support | Impact award Winner 2024!
 
 This is a working app used to demontrate intergration of AI(LLMs) into EMRs using surveillance data and research to combat AntiMicrobial Resistance. This code was developed by Dr. Fredrick Mutisya using Pfizer-Atlas, Venatorx-GEARS and Paratek-Keystone data as part of the 2024 Vivli data challenge. For more information on Vivli and the challenge, visit the link 
 [Vivli AMR](https://amr.vivli.org/data-challenge/2024-finalist-and-award-winning-solutions/)
